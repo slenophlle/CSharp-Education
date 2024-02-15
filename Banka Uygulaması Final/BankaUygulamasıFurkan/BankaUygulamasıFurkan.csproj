@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42CC42BA-3BFD-4F51-BC34-B5EE2B7AC256}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BankaUygulamasıFurkan</RootNamespace>
+    <AssemblyName>BankaUygulamasıFurkan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPage.Designer.cs">
+      <DependentUpon>AdminPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BilgileriGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BilgileriGüncelle.Designer.cs">
+      <DependentUpon>BilgileriGüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EFT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EFT.Designer.cs">
+      <DependentUpon>EFT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giriş.Designer.cs">
+      <DependentUpon>Giriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HesapBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HesapBilgileri.Designer.cs">
+      <DependentUpon>HesapBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kaydolma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kaydolma.Designer.cs">
+      <DependentUpon>Kaydolma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="İşlemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İşlemler.Designer.cs">
+      <DependentUpon>İşlemler.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminPage.resx">
+      <DependentUpon>AdminPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BilgileriGüncelle.resx">
+      <DependentUpon>BilgileriGüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EFT.resx">
+      <DependentUpon>EFT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giriş.resx">
+      <DependentUpon>Giriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HesapBilgileri.resx">
+      <DependentUpon>HesapBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kaydolma.resx">
+      <DependentUpon>Kaydolma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İşlemler.resx">
+      <DependentUpon>İşlemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ARKAPLAN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2312b378ed80a94656b32c0e257e13cc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YAZIASD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yaz123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CodeBank_copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0cb1aab38a6fbb3699dacfc05a83a2e8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\494934.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2529023.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer-icons-debit-card-portable-network-graphics-scalable-vector-graphics-png-favpng-quCgz152P0Zgf7e98pU8aKsvF.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e6b4327ebe62b73edcd95dc8477fb55a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-bank-transfer-1817243-1538117.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-account-add-avatar-person-plus-profile-user-random-icon-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-password-account-security-reset-safety-change-update-cyber-security-solid-threat-protection-icon-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-wire-transfer-bank-electronic-funds-transfer-logo-money-bank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\152532.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-computer-icons-logout-angle-text-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accountpng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\676c18a192c06135e88fab1de12cc413.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7e3f5a99599704c6d692250bdad3c4cd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ARKAPLAN1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CodeBanktasarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exitform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Homeform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewProfileform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profileform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ResetPasswordform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-media.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updateProfileForm.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,51 @@
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe.config
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.pdb
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.AdminPage.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.BilgileriGüncelle.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.EFT.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Giriş.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.HesapBilgileri.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Kaydolma.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Properties.Resources.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.İşlemler.resources
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.pdb
+C:\Users\PC\source\repos\BankaUygulamasıFurkan\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Resource1.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe.config
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.pdb
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.AdminPage.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.BilgileriGüncelle.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.EFT.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Giriş.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.HesapBilgileri.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Kaydolma.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Properties.Resources.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Resource1.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.İşlemler.resources
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\Banka Uygulaması\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.pdb
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe.config
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\bin\Debug\BankaUygulamasıFurkan.pdb
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.AdminPage.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.BilgileriGüncelle.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.EFT.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Giriş.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.HesapBilgileri.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Kaydolma.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Properties.Resources.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.Resource1.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.İşlemler.resources
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.exe
+C:\Users\PC\source\repos\Banka Uygulaması Final\BankaUygulamasıFurkan\obj\Debug\BankaUygulamasıFurkan.pdb
