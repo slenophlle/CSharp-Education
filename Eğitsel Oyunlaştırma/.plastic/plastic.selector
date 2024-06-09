@@ -1,4 +1,0 @@
-repository "Eğitsel Oyunlaştırma@Slenophlle@cloud"
-  path "/"
-    br "/main"
-    co "/main"
